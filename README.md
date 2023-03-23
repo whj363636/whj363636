@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=whj363636)
-
 PhD student at the University of Hong Kong
 
 Reach me at hjwang@connect.hku.hk if you are interested in discussing research ideas with me
